@@ -6,7 +6,6 @@ import BookmarkRouter from "./routers/BoomarkRouter";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <Screen>
-    <Navbar />
     <BookmarkRouter />
   </Screen>
 );
